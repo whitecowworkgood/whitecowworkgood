@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ ### Who Am I
+🔭 I am a college student whose dream is to be a developer.
+⚡ My major is information security.
+📫 My hometown is Naju, Jeollanam-do, Korea.
+
+### Experience
+🎓 Mokpo University , Information security (2018.03~ )
+🌍 I served as an information protection soldier in the Korean Air Force.(2019.09~ 2021.06)
+
+### My Dream
+⚡I want to be a skilled Python developer.
+😄I want to get a job in Kakao.
+
+### What I Like
+💬 Sleep
+👯 Fitness
