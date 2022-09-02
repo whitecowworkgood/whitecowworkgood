@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitecowworkgood&show_icons=true&theme=dark)
+
  ### Who Am I
 - 🔭 I am a college student whose dream is to be a developer.
 - ⚡ My major is information security.
@@ -30,3 +33,4 @@ Here are some ideas to get you started:
 ### What I Like
 - 💬 Sleep
 - 👯 Fitness
+
