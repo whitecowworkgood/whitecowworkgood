@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&style=for-the-badge&logo=Notepad++&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++%20-90E59A.svg?&style=for-the-badge&logo=Notepad++%20&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?&style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
 
  ### Who Am I
 - 🔭 I am a college student whose dream is to be a developer.
