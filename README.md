@@ -27,26 +27,33 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-#### Weakness
+#### Weakness But Will Study
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++%20-90E59A.svg?&style=for-the-badge&logo=Notepad++%20&logoColor=white)
+![Notepad++](https://img.shields.io/badge/notepad++-90E59A.svg?&style=for-the-badge&logo=notepad++&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?&style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
+
+### Will Study
+![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+
 
  ### Who Am I
 - 🔭 I am a college student whose dream is to be a developer.
 - ⚡ My major is information security.
-- 📫 My hometown is Naju, Jeollanam-do, Korea.
+- 📫 My hometown is Jeollanam-do, Korea.
 
 ### Experience
 - 🎓 Mokpo University , Information security (2018.03~ )
 - 🌍 I served as an information protection soldier in the Korean Air Force.(2019.09~ 2021.06)
 
 ### My Dream
-- ⚡I want to be a skilled Python developer.
+- ⚡I want to be a skilled developer.
 - 😄I want to get a job in Kakao.
 
 ### What I Like
