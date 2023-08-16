@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ### Experience
 - 🎓 Mokpo University , Information security (2018.03~ )
 - 🌍 I served as an information protection soldier in the Korean Air Force.(2019.09~ 2021.06)
-- 🌱 I am an intern at a company called Hunezion.(2023.08~ )
+- 🌱 I am an intern at a company called Hunesion.(2023.08~ )
 ### My Dream
 - ⚡I want to be a skilled developer.
 
